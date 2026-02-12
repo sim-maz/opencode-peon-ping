@@ -21,7 +21,7 @@ Desktop notifications are sent when your terminal is not focused (macOS only).
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url> ~/opencode-peon-ping
+git clone https://github.com/sim-maz/opencode-peon-ping ~/opencode-peon-ping
 ```
 
 2. Symlink the plugin into your OpenCode plugins directory:
